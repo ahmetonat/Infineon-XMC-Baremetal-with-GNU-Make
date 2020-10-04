@@ -1,0 +1,4 @@
+loadfile GPIO_TOGGLE.hex
+rx 5
+g
+qc
